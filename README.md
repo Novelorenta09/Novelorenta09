@@ -1,7 +1,11 @@
 ## Halo Semua!
-Perkenalkan nama saya **Nove Lorenta**.<br>
-Saya seorang Mahasiswi dari jurusan Teknik Informatika.<br> 
-Jika tertarik untuk berkenalan dengan saya, silahkan kunjungi akun [linkedin](www.linkedin.com/in/lorenta-sihotang) saya.<br>
+Saya **Nove Lorenta** mahasiswi jurusan Teknik Informatika.<br> 
+Jika ingin terhubung dan bertukar ide, jangan ragu untuk mengunjungi profil [LinkedIn](https://www.linkedin.com/in/lorenta-sihotang/) saya!"
+
+## Keahlian
+- 💻 Pemrograman: JavaScript, HTML, CSS
+- 🎨 Desain: Figma
+- ⚙️ Framework: React, Node.js
 
 ### Github Statistic
 <p align="left">
