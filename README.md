@@ -1,4 +1,4 @@
-## Hi, I'm Nove Lorenta👋!
+## Hi, I'm Nove Lorenta👋
 
 ![novelorenta](img/my-banner.png)
 
