@@ -12,7 +12,7 @@ I am a UI/UX designer and computer engineering student who is interested in crea
 
 ### 📫 Connect with me:
 
-[Linkedin](https://www.linkedin.com/in/lorenta-sihotang/) | [Email](mailto:sihotangrenta04@gmail.com) | [Dribbble](https://dribbble.com/novelorenta)
+[Linkedin](https://www.linkedin.com/in/lorenta-sihotang/) | [Email](mailto:sihotangrenta04@gmail.com) | [Dribbble](https://dribbble.com/novelorenta) | [Behance](https://www.behance.net/rentasihotang)
 
 ### 🌟 Tools & Tecnologies:
 
