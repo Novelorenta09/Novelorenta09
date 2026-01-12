@@ -4,9 +4,8 @@
 
 I am a UI/UX designer with a background in Computer Engineering, interested in creating useful, user-friendly, and meaningful digital products.
 
-### 📚 I'm curently learn:
 
-🌱 Currently focusing on:
+### 🌱 Currently focusing on:
 -  Improving design thinking, usability, and problem-solving through real-world projects
 -  Exploring the connection between design and basic web implementation
 
