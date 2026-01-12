@@ -2,17 +2,17 @@
 
 ![novelorenta](img/my-banner.png)
 
-I am a UI/UX designer and computer engineering student who is interested in creating useful and user-friendly products.
+I am a UI/UX designer with a background in Computer Engineering, interested in creating useful, user-friendly, and meaningful digital products.
 
 ### 📚 I'm curently learn:
 
-- 🔍 User Research & Usability Testing to better understand user needs
-
-- ⚖️ AHP (Analytic Hierarchy Process) to support better decision-making in apps
+🌱 Currently focusing on:
+-  Improving design thinking, usability, and problem-solving through real-world projects
+-  Exploring the connection between design and basic web implementation
 
 ### 📫 Connect with me:
 
-[Linkedin](https://www.linkedin.com/in/lorenta-sihotang/) | [Email](mailto:sihotangrenta04@gmail.com) | [Dribbble](https://dribbble.com/novelorenta) | [Behance](https://www.behance.net/rentasihotang)
+[Linkedin](https://www.linkedin.com/in/lorenta-sihotang/) | [Behance](https://www.behance.net/rentasihotang) | [Email](mailto:sihotangrenta04@gmail.com)  | [Instagram](https://www.instagram.com/novelorenta09/) 
 
 ### 🌟 Tools & Tecnologies:
 
